@@ -60,6 +60,12 @@ $ tri-tunnel start
 🌐 API status: https://playras-macbook-pro-1.tail01804b.ts.net/api/status
 ```
 
+## Testing
+
+See [TESTING.md](TESTING.md) for the complete manual testing plan.
+
+All tests passed: 9/9 ✅
+
 ## License
 
 MIT
